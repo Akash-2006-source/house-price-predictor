@@ -1,0 +1,9 @@
+.git
+.env
+.venv
+__pycache__
+tests
+data/raw
+# Model artifacts are intentionally Git-ignored but included in an image after
+# `python -m ml.train_model`, so the runtime can make real predictions.
+*.db

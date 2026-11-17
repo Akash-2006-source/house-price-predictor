@@ -1,0 +1,11 @@
+{
+  "model": "Linear Regression",
+  "source_file": "Bengaluru_House_Data.csv",
+  "records_loaded": 13320,
+  "records_used": 12330,
+  "training_records": 9864,
+  "testing_records": 2466,
+  "mae_inr": 4518811.628813887,
+  "rmse_inr": 10709673.48300825,
+  "cleaning": "Dropped duplicate, missing, nonpositive, invalid area/BHK/price rows; sqft ranges averaged; price lakh converted to INR."
+}
