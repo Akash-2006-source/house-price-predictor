@@ -1,5 +1,7 @@
 # House Price Predictor
 
+🌐 **Live Deployed Application:** [https://house-price-predictor-482i.onrender.com](https://house-price-predictor-482i.onrender.com)
+
 A Flask + scikit-learn capstone for 21CSE216P. It predicts Bengaluru property **asking/sale-price estimates** from area, BHK, and locality, and saves successful predictions in PostgreSQL.
 
 ## Honest dataset status
