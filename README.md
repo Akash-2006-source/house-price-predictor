@@ -1,6 +1,7 @@
 # House Price Predictor
 
-🌐 **Live Deployed Application:** [https://house-price-predictor-482i.onrender.com](https://house-price-predictor-482i.onrender.com)
+🌐 **Live Deployed Application:** [https://house-price-predictor-482i.onrender.com](https://house-price-predictor-482i.onrender.com)  
+📦 **Container Registry (GHCR):** [`ghcr.io/akash-2006-source/house-price-predictor:v1`](https://github.com/Akash-2006-source/house-price-predictor/pkgs/container/house-price-predictor) (`podman pull ghcr.io/akash-2006-source/house-price-predictor:v1`)
 
 A Flask + scikit-learn capstone for 21CSE216P. It predicts Bengaluru property **asking/sale-price estimates** from area, BHK, and locality, and saves successful predictions in PostgreSQL.
 
